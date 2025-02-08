@@ -7,7 +7,7 @@
 .hero{
     margin-top: 57px;
     background: url("../assets/images/looney_tunes.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: right;
     height: 100vh;
 
